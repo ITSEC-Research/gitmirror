@@ -1,0 +1,12 @@
+[
+    {
+    "id": 1,
+    "source": "gitlab.dev.local/itsec/your_repo_source",
+    "target": "gitlab.com/itsec/projectname/your_repo_target"
+    },
+    {
+    "id": 2,
+    "source": "gitlab.dev.local/itsec/your_repo_source",
+    "target": "gitlab.com/itsec/projectname/your_repo_target"
+    }
+]
